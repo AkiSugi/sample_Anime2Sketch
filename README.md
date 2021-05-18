@@ -5,4 +5,5 @@
 
 [Qiita記事へのリンク「Anime2SketchをColaboratoryで試してみた（静止画のみ）」](https://qiita.com/AkiSugi/items/efc956737c79954e9d98)
 
+### サンプル画像
 ![ooarai_4096](https://user-images.githubusercontent.com/34483295/118675046-424c3480-b835-11eb-9d3a-699909809949.png)
